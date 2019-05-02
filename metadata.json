@@ -1,0 +1,14 @@
+{
+  "name": "vaneet-ssh",
+  "version": "0.1.0",
+  "author": "Vaneet",
+  "summary": "This is my first module called ssh.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/vaneet116/puppet.ssh",
+  "project_page": "https://github.com/vaneet116/puppet.ssh",
+  "issues_url": "https://github.com/vaneet116/puppet.ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
